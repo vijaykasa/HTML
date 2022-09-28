@@ -1,0 +1,20 @@
+<h1></h1> heading tag1
+<h2></h2> heading tag2
+<h3></h3> heading tag3
+<h4></h4> heading tag4
+<h5></h5> heading tag5
+<h6></h6> heading tag6
+<br></br> line brake tag
+<p></p> paragraph
+<u></u> under line
+<i></i> italian font
+<b></b> for bold
+<strong></strong> for bold
+<tr><tr> for creating table rows
+<td></td>for creating table colums
+<a href=""> for assigning the link
+<imag src="" alt="" for uploading the image
+<font></font> for changing the font style
+<center></center> to align the text or image
+<right></right> to move the text are image toward right
+
